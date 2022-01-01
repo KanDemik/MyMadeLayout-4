@@ -1,0 +1,21 @@
+.about-cont {
+	display: flex;
+}
+
+.about-cont-title h2 {
+	font-size: 40px;
+	line-height: 52px;
+	font-family: "OpenSans-Bold", sans-serif;
+	font-weight: 700;
+	margin-bottom: 40px;
+	width: 548px;
+}
+
+.about-cont-title p {
+	width: 483px;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 25.6px;
+	margin-bottom: 20px;
+	opacity: 70%;
+}

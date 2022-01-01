@@ -1,0 +1,47 @@
+@media (max-width: 1540px) { 
+
+.content-cont-img img {
+	margin-left: 50px;
+}
+}
+
+@media (max-width: 1400px) { 
+
+.content-cont-img img {
+	margin-left: 10px;
+	width: 580px;
+	height: 582px;
+}
+
+}
+
+@media  (max-width: 1280px) {
+	.services-cont-img img {
+		width: 97%;
+		height: 97%;
+	}
+}
+
+@media screen and (max-width: 1380px) {
+	.all-services-item {
+	width: 270px;
+	height: 300px;
+	}
+
+	.all-services-item h3 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 31.25px;
+	font-family: "OpenSans-Bold", sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;	
+	}
+	.all-services-item-cont {
+		width: 250px;
+	}
+
+	.all-services-item p {
+	font-size: 12px;
+	}
+
+}
